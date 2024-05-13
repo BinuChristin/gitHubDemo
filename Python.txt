@@ -1,2 +1,2 @@
 
-print("Hello world")123456
+print("Hello Python")123456
